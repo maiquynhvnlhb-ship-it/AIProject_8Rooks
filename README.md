@@ -125,6 +125,7 @@ A1/
 │     ├─ greedy.py, astar.py
 │     ├─ hill_climbing.py, simulated_annealing.py, genetic.py, beam_search.py
 │     ├─ and_or.py, belief_state.py, belief_state_partially_observable.py
+│     └─ backtracking.py, forward_checking.py, AC_3.py
 ├─ utils/
 │  └─ heuristics.py    # Định nghĩa heuristic, cost function
 ├─ assets/               # Chứa ảnh động minh họa
