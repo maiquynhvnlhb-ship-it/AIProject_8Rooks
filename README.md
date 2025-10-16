@@ -1,6 +1,10 @@
-GIẢNG VIÊN HƯỚNG DẪN: Phan Thị Huyền Trang  
-SINH VIÊN THỰC HIỆN: Võ Thị Mai Quỳnh  
-Trường: Đại học Sư phạm Kỹ thuật TP.HCM
+`GIẢNG VIÊN HƯỚNG DẪN: TS.Phan Thị Huyền Trang `   
+`SINH VIÊN THỰC HIỆN: Võ Thị Mai Quỳnh `  
+`MSSV: 23110147 `   
+`Trường: Đại học Sư phạm Kỹ thuật TP.HCM`
+
+
+
 # Đề tài: GIẢI BÀI TOÁN 8 QUÂN XE BẰNG CÁC THUẬT TOÁN TÌM KIẾM 
 Dự án này triển khai các thuật toán tìm kiếm khác nhau để giải bài toán **8 quân xe**.  
 Mỗi thuật toán khám phá không gian trạng thái theo cách khác nhau, giúp minh họa ưu nhược điểm của từng chiến lược tìm kiếm.
